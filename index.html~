@@ -46,7 +46,7 @@
       }
       #latest-commits-widget{
         width:500px;
-        max-height:100px;
+        max-height:50px;
         font:13px helvetica, arial, freesans, clean, sans-serif;
 	background-color: #CCFFFF;
 	border: 1px solid #A3CCCC;
