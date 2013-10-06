@@ -1,8 +1,0 @@
-name: latestCommits
-pygments: true
-markdown: redcarpet
-
-baseurl: github-latest-commits-widget/
-url: 
-
-
